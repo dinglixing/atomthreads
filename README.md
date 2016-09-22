@@ -1,3 +1,13 @@
+# README
+
+This is a sub project of cupkee, to apply a realtime multiTask library.
+
+## Thanks
+It based on Kelvin Lawson's Atomthreads. 
+  * website: <atomthreads.com>
+  * github: 
+
+# Original info from atomthreads
 ---------------------------------------------------------------------------
 
  * Library: Atomthreads
